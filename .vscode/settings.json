@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\greenworkspace\\tools\\lombok-1.18.12.jar",
+        "c:\\Users\\Administrator\\Downloads\\gson-2.8.5.jar",
+        "c:\\Users\\Administrator\\Downloads\\ojdbc8-21.1.0.0.jar"
+    ]
+}
